@@ -1,0 +1,29 @@
+{
+"type": "FeatureCollection",
+"name": "BUSMEK",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2320" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 53, "ILCE": "KARACABEY", "MAHALLE": "DRAMA", "ADI": "KARACABEY KURS MERKEZİ" }, "geometry": { "type": "Point", "coordinates": [ 360419.8026, 4454952.4427 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 43, "ILCE": "MUSTAFAKEMALPAŞA", "MAHALLE": "YÜZBAŞI SABRİBEY", "ADI": "MUSTAFAKEMALPAŞA KURS MERKEZİ" }, "geometry": { "type": "Point", "coordinates": [ 364326.031499999575317, 4435077.737199999392 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 48, "ILCE": "NİLÜFER", "MAHALLE": "GÖRÜKLE", "ADI": "GÖRÜKLE GENÇLİK MERKEZİ" }, "geometry": { "type": "Point", "coordinates": [ 402200.255900000222027, 4455497.0534 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 44, "ILCE": "MUDANYA", "MAHALLE": "ÖMERBEY", "ADI": "MUDANYA KURS MERKEZİ" }, "geometry": { "type": "Point", "coordinates": [ 405553.131199999712408, 4471772.6818 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 41, "ILCE": "NİLÜFER", "MAHALLE": "ERTUĞRUL", "ADI": "ERTUĞRUL KURS MERKEZİ" }, "geometry": { "type": "Point", "coordinates": [ 408198.602, 4454396.798499999568 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 40, "ILCE": "NİLÜFER", "MAHALLE": "KONAK", "ADI": "BEŞEVLER KURS MERKEZİ" }, "geometry": { "type": "Point", "coordinates": [ 412951.435499999672174, 4453287.933 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 52, "ILCE": "ORHANELİ", "MAHALLE": "GAZİPAŞA", "ADI": "ORHANELİ KURS MERKEZİ" }, "geometry": { "type": "Point", "coordinates": [ 413385.975499999709427, 4419505.1782 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 60, "ILCE": "OSMANGAZİ", "MAHALLE": "YENİKARAMAN", "ADI": "YENİ KARAMAN MESLEKİ EĞİTİM MERKEZİ" }, "geometry": { "type": "Point", "coordinates": [ 414678.694099999964, 4454834.3582 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 57, "ILCE": "OSMANGAZİ", "MAHALLE": "HÜDAVENDİGAR", "ADI": "HÜDAVENDİGAR HOBİ EVİ" }, "geometry": { "type": "Point", "coordinates": [ 415236.011699999682605, 4452676.328299999237 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 47, "ILCE": "OSMANGAZİ", "MAHALLE": "SOĞUKKUYU", "ADI": "HÜRRİYET SINAVA HAZIRLIK MERKEZİ" }, "geometry": { "type": "Point", "coordinates": [ 415512.00040000025183, 4454260.204199999571 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 58, "ILCE": "OSMANGAZİ", "MAHALLE": "SANTRAL GARAJ", "ADI": "BUSMEK YÖNETİM MERKEZİ" }, "geometry": { "type": "Point", "coordinates": [ 419218.785400000400841, 4452292.3782 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 59, "ILCE": "OSMANGAZİ", "MAHALLE": "SANTRAL GARAJ", "ADI": "MERİNOS KURS MERKEZİ" }, "geometry": { "type": "Point", "coordinates": [ 419239.422899999655783, 4452294.7595 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 46, "ILCE": "OSMANGAZİ", "MAHALLE": "AHMETPAŞA", "ADI": "KENT MEYDANI KURS MERKEZİ" }, "geometry": { "type": "Point", "coordinates": [ 419958.010300000198185, 4451796.037699999288 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 51, "ILCE": "YILDIRIM", "MAHALLE": "UMURBEY", "ADI": "UMURBEY İPEK ÜRETİM MERKEZİ" }, "geometry": { "type": "Point", "coordinates": [ 421035.875599999912, 4449647.6301 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 39, "ILCE": "YILDIRIM", "MAHALLE": "MOLLAARAP", "ADI": "MOLLAARAP KURS MERKEZİ" }, "geometry": { "type": "Point", "coordinates": [ 421215.578300000168383, 4449408.42899999954 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 50, "ILCE": "YILDIRIM", "MAHALLE": "DAVUTKADI", "ADI": "MUALLİMZADE KÜLTÜR MERKEZİ" }, "geometry": { "type": "Point", "coordinates": [ 422087.974600000306964, 4450398.910499999 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 56, "ILCE": "YILDIRIM", "MAHALLE": "YAVUZSELIM", "ADI": "YAVUZ SELİM SOSYAL YAŞAM" }, "geometry": { "type": "Point", "coordinates": [ 424741.1014, 4452252.299599999562 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 54, "ILCE": "YILDIRIM", "MAHALLE": "YİĞİTLER", "ADI": "NAİM SÜLEYMANOĞLU KURS MERKEZİ" }, "geometry": { "type": "Point", "coordinates": [ 428250.140700000338256, 4451644.019899999723 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 42, "ILCE": "GEMLİK", "MAHALLE": "BALIKPAZARI", "ADI": "GEMLİK PAŞA KONAĞI KURS MERKEZİ" }, "geometry": { "type": "Point", "coordinates": [ 428306.183400000445545, 4478500.4734 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 49, "ILCE": "YILDIRIM", "MAHALLE": "VAKIF", "ADI": "VAKIF BERA KURS MERKEZİ (SINAVA HAZIRLIK MERKEZİ)" }, "geometry": { "type": "Point", "coordinates": [ 428861.573599999770522, 4452902.35 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 55, "ILCE": "GÜRSU", "MAHALLE": "YENİDOĞAN", "ADI": "GÜRSU KURS MERKEZİ" }, "geometry": { "type": "Point", "coordinates": [ 430246.505300000309944, 4452484.572 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 45, "ILCE": "ORHANGAZİ", "MAHALLE": "CAMİİKEBİR", "ADI": "ORHANGAZİ KURS MERKEZİ (SINAVA HAZIRLIK MERKEZİ)" }, "geometry": { "type": "Point", "coordinates": [ 441332.722500000149012, 4484314.1268 ] } }
+]
+}
